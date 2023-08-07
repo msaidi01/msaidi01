@@ -5,7 +5,7 @@
 <br><br>
 🔥 Currently Studying : C .
 <br><br>
-😜 Fun Fact :The average smartphone today has more computing power than NASA had when they sent astronauts to the moon.
+😜 Fun Fact :The term "bug" in computer science originated when a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction.
 
 <br><br>
 [![msaidi's 42 stats](https://badge.mediaplus.ma/black/msaidi)](https://github.com/msaidi/badge42)
