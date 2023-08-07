@@ -1,9 +1,9 @@
 ## 💫 About Me:
 🎓 1337 / 42 Network Student 
 <br><br>
-⛳ Currently Working on : 42_Cursus
+🏹 Working on : 42_Cursus
 <br><br>
-🔥 Currently Studying : C .
+🔥 Studying : C .
 <br><br>
 😜 Fun Fact :The term "bug" in computer science originated when a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction.
 
