@@ -17,7 +17,7 @@
 #  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=msaidi01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=msaidi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://wakatime.com/share/@c1e2ddc0-ee12-4067-9e18-222067de408c/85d56e74-dbd0-47c9-b382-cadccefa2d51.svg))
+[![](https://wakatime.com/share/@c1e2ddc0-ee12-4067-9e18-222067de408c/85d56e74-dbd0-47c9-b382-cadccefa2d51.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
